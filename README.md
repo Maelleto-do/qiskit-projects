@@ -16,3 +16,23 @@ Vous trouverez un pêle-mêle des sujets suivants :
 - Initialisation de qubits (en utilisant les nombres complexes)
 
 - Une implémentation du protocole BB84 (franchement inspiré du tutoriel github mais très intéressant à mettre en place)
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+Passionate about quantum mechanics, it was important to me to use Qiskit to implement small exercises on quantum computing.
+
+Here is a small dictionary of short projects carried out for experimental purposes.
+
+Most of these exercises are inspired by or taken from the book _Quantum: A bit of mathematics for quantum computing_, by Arnaud Bodin and the Qiskit documentation.
+
+You will find a set of the following topics:
+
+- Warm-up exercises on 2-qubit circuits using hand-initialized qubits
+
+- The implementation of the "Super Dense" coding
+
+- Initialization of qubits (using complex numbers)
+
+- An implementation of the BB84 protocol (inspired by the github tutorial but very interesting to set up)
